@@ -8,4 +8,8 @@ package a.b.c;
  * by Irina.Petrovskaya, on 20.12.10, 13:35
  */
 public class Boo {
+   private int num;
+   public Boo(){
+       this.num = 1;
+   }
 }
